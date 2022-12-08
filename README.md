@@ -7,6 +7,12 @@ Starting from the library created, it should be possible to develop games like T
 
 ## Project
 
+A class library and a graphical interface must be developed where the implemented games can be seen.
+You should fork your solution:
+- the library of sud classes, implemented in Java
+- the graphical interface
+
+## Description of the games
 Board games are generally in turns, where in each turn a player must make his move.
 Some involve pieces like chess and some don't like Tic Tac Toe.
 In a way everyone has a board.
@@ -24,6 +30,12 @@ A partire dalla libreria creata dovrebbe essere possibile sviluppare giochi come
 
 ## Progetto
 
+Deve essere sviluppata una libreria di classi e un'interfaccia grafica dove si possono vedere i giochi implementati.
+Dovresti forkare la tua soluzione:
+- la libreria delle classi sud, implementata in Java
+- l'interfaccia grafica
+
+## Descrizione dei giochi
 I giochi da tavolo sono generalmente a turni, dove in ogni turno un giocatore deve fare la sua mossa.
 Alcuni coinvolgono pezzi come gli scacchi e altri non amano Tic Tac Toe.
 In un certo senso tutti hanno una tavola.
