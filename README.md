@@ -12,6 +12,8 @@ You should fork your solution:
 - the library of sud classes, implemented in Java
 - the graphical interface
 
+It can be developed by several people.
+
 ## Description of the games
 Board games are generally in turns, where in each turn a player must make his move.
 Some involve pieces like chess and some don't like Tic Tac Toe.
@@ -34,6 +36,8 @@ Deve essere sviluppata una libreria di classi e un'interfaccia grafica dove si p
 Dovresti forkare la tua soluzione:
 - la libreria delle classi sud, implementata in Java
 - l'interfaccia grafica
+
+Può essere sviluppato da più persone.
 
 ## Descrizione dei giochi
 I giochi da tavolo sono generalmente a turni, dove in ogni turno un giocatore deve fare la sua mossa.
