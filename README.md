@@ -12,3 +12,12 @@ Some involve pieces like chess and some don't like Tic Tac Toe.
 In a way everyone has a board.
 
 ....in process
+
+
+
+## Example of Games
+Tic Tac Toe
+![Tic Tac Toe](doc\img\TTT.png)
+
+Snake
+![Tic Tac Toe](doc\img\Snake.jpg)
