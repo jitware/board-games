@@ -30,7 +30,7 @@ In un certo senso tutti hanno una tavola.
 
 ## Example of Games
 Tic Tac Toe
-![Tic Tac Toe](doc\img\TTT.png)
+![Tic Tac Toe](https://github.com/jitware/board-games/blob/main/doc/img/TTT.png)
 
 Snake
-![Tic Tac Toe](doc\img\Snake.jpg)
+![Tic Tac Toe](https://github.com/jitware/board-games/blob/main/doc/img/Snake.jpg)
